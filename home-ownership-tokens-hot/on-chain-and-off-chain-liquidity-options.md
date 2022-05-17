@@ -1,14 +1,14 @@
 # On-Chain and off-chain Liquidity Options
 
-When the HOT owner is ready to divest their Home Ownership Token, they have both on-chain and off-chain options:&#x20;
+When the HOT owner is ready to divest their Home Ownership Token, they may have both on-chain and off-chain options:&#x20;
 
 **On-chain Liquidity**
 
-Hot owners will have the option to receive an offer from a Roofstock-sponsored buyer (aka “liquidity pool”): This mechanism is modeled on the principles of DeFi liquidity pools, reimagined specifically for the HOT ecosystem and real-world properties. This model will incorporate both data and in-person visits to arrive at a fair offer at a price calculated in accordance with predetermined valuation criteria. If the HOT owner is happy with this price, she can accept the offer with one click and instantly receive payment without any of the traditional real estate transaction processes or expenses. &#x20;
+Hot owners may have an option to receive an offer from a Roofstock-sponsored i-Buyer or unaffiliated third-party buyer(s) (conceptually analogous to a DeFi liquidity pool): This mechanism, modeled on the principles of DeFi liquidity pools, will be reimagined specifically for the HOT ecosystem and real-world properties. This model will incorporate both data and in-person property visits (inspections or valuations) to arrive at a fair offer calculated in accordance with predetermined criteria. If the HOT owner is happy with this price, they can accept the offer with one click and instantly receive payment without any of the traditional real estate transaction processes or expenses. &#x20;
 
-This “liquidity pool” will initially be capitalized by Roofstock’s balance sheet with the goal to eventually be replaced or supplemented with outside capital. &#x20;
+This “liquidity pool” like experience may initially be capitalized by Roofstock’s balance sheet with the goal to eventually be replaced or supplemented with outside capital. &#x20;
 
-Home Ownership Tokens repurchased by the “liquidity pool” will be re-listed for sale in the HOT Property marketplace, whether tenanted or untenanted.&#x20;
+Home Ownership Tokens repurchased by the i-Buyer may be re-listed for sale in the HOT Property marketplace, whether tenanted or untenanted.&#x20;
 
 **Off-chain Liquidity:**&#x20;
 
