@@ -25,4 +25,7 @@ Properties conforming to the HOT Standard can be listed by approved sellers as c
 
 **On-chain and off-chain liquidity options**: HOT Owners will have the ability to list their tokens for sale in the Roofstock onChain marketplace (subject to updated inspection and valuation, as the underlying property is a real world asset) or redeem their tokens and receive off-chain LLC or property ownership to avail liquidity through traditional means.
 
-**Strong web3 community**: Roofstock onChain's goal is to become the platform for tokenized single family residential properties. As a part of this goal, we are building a strong web3 community that will have the opportunity to vote on various proposals and help chart the evolution of the platform.&#x20;
+**Strong web3 community**: Roofstock onChain's goal is to become the platform for tokenized single family residential properties. As a part of this goal, we are building a strong web3 community that will have the opportunity to vote on various proposals and help chart the evolution of the platform.
+
+1. **Discord**: The Roofstock onChain Discord server is an avenue for like minded people (from both traditional real estate and web3) to get together and discuss all matters pertaining to real estate and crypto. Our goal is to create a community where both the real estate and the web3/crypto ecosystem can learn from each other and grow together.
+2. **Voting and governance**: We strongly believe that our community should have a say in the direction of how the Roofstock onChain platform evolves and how/where/what we purchase and tokenize to sell in the marketplace. We expect to have informal polls or formal voting on snapshot.org on proposals pertaining to these types of decisions.&#x20;
