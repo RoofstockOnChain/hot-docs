@@ -4,7 +4,7 @@
 * [Introduction](introduction.md)
 * [The Roofstock onChain Platform](the-roofstock-onchain-platform.md)
 * [Home Ownership Tokens (HOT)](home-ownership-tokens-hot/README.md)
-* [Ownership and Management Rights](ownership-and-management-rights.md)
+* [Ownership and Management Rights](home-ownership-tokens-hot/leverage-roofstocks-offchain-sfr-ecosystem.md)
 * [On-chain Lending Solution](home-ownership-tokens-hot/on-chain-lending-solution.md)
 * [On-Chain and off-chain Liquidity Options](home-ownership-tokens-hot/on-chain-and-off-chain-liquidity-options.md)
 * [The HOT Standard](the-hot-standard/README.md)

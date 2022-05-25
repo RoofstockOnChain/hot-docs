@@ -8,7 +8,7 @@ HOT owners will have all the rights associated with traditional property ownersh
 2. **Active management**: HOT Properties can be self-managed, or HOT owners can choose and direct a property manager to manage the property on their behalf.
    * **Self-managed HOT Property**: If a HOT owner chooses to self-manage the HOT Property, they will be provided with the keys (physical or smart lock). The HOT owner will be responsible for the payment of all property expenses (taxes, insurance, HOA, utilities, repairs & maintenance, and capital expenditure). Roofstock offers a free app that helps single-family residential landlords with financial reporting, and which will be offered to HOT owners as well.&#x20;
    * **Manager-managed HOT Property**: If a HOT Property is managed by a property manager, the owner will have the right to select and hire the property manager, and to terminate any property management arrangement at their discretion. The HOT owner will be provided with a list of approved property managers and will have the right to select the manager for their HOT Property. In this scenario, Roofstock may play a “concierge” role to interface with the property manager, as described in more detail below.&#x20;
-3. **Taking Title to HOT Properties**: HOT owners will have the right to instruct Roofstock to terminate the LLC and to transfer title to the underlying property to the name of the individual HOT owner.&#x20;
+3. **Taking Title to HOT Properties**: HOT owners will have the right to instruct Roofstock to burn the token and off-ramp the LLC, or to terminate the LLC and to transfer title to the property to the name of the HOT owner.&#x20;
 
 **Roofstock’s Role as Administrator**&#x20;
 
