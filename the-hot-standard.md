@@ -1,4 +1,16 @@
-# The HOT Standard: Modified ERC-721
+# The HOT Standard
+
+We are developing the HOT standard for tokenized single family properties. These standards include:
+
+a. Modified ERC-721 standard (covered under the HOT Standard)
+
+b. Definition of the Metadata standard for HOT Properties
+
+c. Data room requirements for HOT Properties, and&#x20;
+
+d. Form agreements (e.g., LLC Agreement and Token Purchase Agreement)
+
+**Modified ERC-721**
 
 The blockchain architecture for Home Ownership Tokens is a modified ERC-721 (Ethereum Request for Comments 721) smart contract, which is a non-fungible token standard.  &#x20;
 

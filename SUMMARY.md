@@ -8,4 +8,4 @@
   * [Leverage Roofstock's off-chain SFR ecosystem](home-ownership-tokens-hot/leverage-roofstocks-offchain-sfr-ecosystem.md)
   * [On-chain Lending Solution](home-ownership-tokens-hot/on-chain-lending-solution.md)
   * [On-Chain and off-chain Liquidity Options](home-ownership-tokens-hot/on-chain-and-off-chain-liquidity-options.md)
-* [The HOT Standard: Modified ERC-721](the-hot-standard-modified-erc-721.md)
+* [The HOT Standard](the-hot-standard.md)
