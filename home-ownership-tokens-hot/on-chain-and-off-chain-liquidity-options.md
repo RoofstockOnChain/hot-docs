@@ -4,11 +4,7 @@ When the HOT owner is ready to divest their Home Ownership Token, they may have 
 
 **On-chain Liquidity**
 
-Hot owners may have an option to receive an offer from a Roofstock-sponsored i-Buyer or unaffiliated third-party buyer(s) (conceptually analogous to a DeFi liquidity pool): This mechanism, modeled on the principles of DeFi liquidity pools, will be reimagined specifically for the HOT ecosystem and real-world properties. This model will incorporate both data and in-person property visits (inspections or valuations) to arrive at a fair offer calculated in accordance with predetermined criteria. If the HOT owner is happy with this price, they can accept the offer with one click and instantly receive payment without any of the traditional real estate transaction processes or expenses. &#x20;
-
-This “liquidity pool” like experience may initially be capitalized by Roofstock’s balance sheet with the goal to eventually be replaced or supplemented with outside capital. &#x20;
-
-Home Ownership Tokens repurchased by the i-Buyer may be re-listed for sale in the HOT Property marketplace, whether tenanted or untenanted.&#x20;
+Hot owners will be able to list their tokens for sale on the Roofstock onChain marketplace. Since the HOT is tied to a real-world asset, Roofstock will require recent property inspection and valuation prior to the listing going live. HOT owners will be able to review any offers and accept, reject or counter them. If they accept an offer, they will be able to settle the sale on-chain without any of the traditional real estate transaction processes or expenses.
 
 **Off-chain Liquidity:**&#x20;
 
