@@ -12,9 +12,9 @@ b. they can be actively managed by the owner or at the direction of the owner. E
 
 Customers have several ways to become HOT owners: &#x20;
 
-1. Purchase a HOT Property from one of the collections on the Roofstock onChain marketplace. The Collections may be offered by Roofstock or other approved sellers. This is the easiest way to acquire a HOT, as the underlying properties are already tokenized and on-chain.
-2. Onboard an unencumbered property as a Home Ownership Token: Mint a Home Ownership Token for a property they already own. This process will require an on-ramp of the real-world asset into a tokenized asset and will involved a traditional title and transfer process.&#x20;
-3. As Roofstock to help acquire and tokenize a specific property for them. This is the lengthiest process, as we will need to work with a real-estate agent on making offers and using the traditional real estate closing process to close the property before tokenization.
+1. **Purchase a HOT Property** from one of the collections on the Roofstock onChain marketplace. The Collections may be offered by Roofstock or other approved sellers. This is the easiest way to acquire a HOT, as the underlying properties are already tokenized and on-chain. Buyers can simply review tokenized properties for sale on the Roofstock onChain marketplace along with all the pertinent documentation in the data room: a copy of the deed, recent inspection and appraisal reports, all of the key information relating to the house, including property taxes, insurance, etc. Additionally, if the home is currently tenanted, the rent-roll pertaining to the lease will be available. If the home is not tenanted, estimated market rents will be provided. &#x20;
+2. **Onboard an unencumbered property** as a Home Ownership Token: Mint a Home Ownership Token for a property they already own. This process will require an on-ramp of the real-world asset into a tokenized asset and will involved a traditional title and transfer process.&#x20;
+3. **Ask Roofstock to help acquire and tokenize** a specific property for them. This is the lengthiest process, as we will need to work with a real-estate agent on making offers and using the traditional real estate closing process to close the property before tokenization.
 
 The HOT standard ensures that any HOT (on-chain asset) is always in sync with both the LLC and the underlying property (off-chain Real World Assets).&#x20;
 
