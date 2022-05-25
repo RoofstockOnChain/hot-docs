@@ -17,6 +17,10 @@ Properties conforming to the HOT Standard can be listed by approved sellers as c
 
 **Access to an off-chain ecosystem**: Roofstock is established in 70+ residential markets and has relationships with contractors, property managers, insurance providers etc., HOT Owners will have the option to leverage these relationships from Roofstock's off-chain SFR ecosystem.&#x20;
 
+1. **Access to Agent Network:** Buyers who want to purchase and tokenize a specific property can leverage Roofstock network of agents (and in-house transaction coordinators) who can help with the purchase and tokenization process.
+2. **Access to local property managers**: Roofstock has relationships with local and regional property managers in 70+ markets. HOT Owners can opt in to use any of these managers for property management services
+3. **Access to Property Insurance**: HOT Owners can opt in to use Roofstock's partnership with Obie for property insurance requirements.
+
 **Access to DeFi lending pools**: The Roofstock onChain platform is working on setting up relationships with DeFi lending protocols that will allow some HOT owners (restricted to rental properties for now) to be able to receive on-chain leverage using their HOT as collateral (without requiring credit underwriting of the HOT purchaser).&#x20;
 
 **On-chain and off-chain liquidity options**: HOT Owners will have the ability to list their tokens for sale in the Roofstock onChain marketplace (subject to updated inspection and valuation, as the underlying property is a real world asset) or redeem their tokens and receive off-chain LLC or property ownership to avail liquidity through traditional means.
