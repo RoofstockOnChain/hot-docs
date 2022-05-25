@@ -2,6 +2,7 @@
 
 * [Executive Summary](README.md)
 * [Introduction](introduction.md)
+* [The Roofstock onChain Platform](the-roofstock-onchain-platform.md)
 * [Home Ownership Tokens (HOT)](home-ownership-tokens-hot/README.md)
   * [Onboard a Property as a Home Ownership Token](home-ownership-tokens-hot/onboard-a-property-as-a-home-ownership-token.md)
   * [Buy a Home Ownership Token](home-ownership-tokens-hot/buy-a-home-ownership-token.md)
