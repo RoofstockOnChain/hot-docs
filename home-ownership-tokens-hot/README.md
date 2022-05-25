@@ -2,7 +2,7 @@
 
 **Overview**&#x20;
 
-Roofstock proposes to abstract away the complexity, time and cost of engaging in traditional real estate transactions by titling each single-family residential property in a single purpose limited liability company (LLC). The membership interest of the LLC is “tokenized” on the Ethereum blockchain using a modified ERC-721 standard. The modified ERC-721 standard is defined as part of the HOT standard and properties tokenized through this structure as “HOT Properties.”&#x20;
+Roofstock proposes to abstract away the complexity, time and cost of engaging in traditional real estate transactions by titling each single-family residential property in a single purpose limited liability company (LLC). The membership interest of the LLC is “tokenized” on the Ethereum blockchain using a modified ERC-721 standard. The modified ERC-721 standard is defined as part of the [HOT standard](../the-hot-standard/) and properties tokenized through this structure as “HOT Properties.”&#x20;
 
 Because the LLC is the legal owner of the property, and the Home Ownership Token represents the uncertificated ownership of the LLC, HOT owners are able to purchase and sell HOTs in a one-click online transaction, without removing the underlying property from the associated LLC. &#x20;
 
