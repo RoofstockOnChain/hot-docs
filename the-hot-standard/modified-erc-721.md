@@ -1,16 +1,6 @@
-# The HOT Standard
+# Modified ERC-721
 
-We are developing the HOT standard for tokenized single family properties. These standards include:
 
-a. Modified ERC-721 standard (covered under the HOT Standard)
-
-b. Definition of the Metadata standard for HOT Properties
-
-c. Data room requirements for HOT Properties, and&#x20;
-
-d. Form agreements (e.g., LLC Agreement and Token Purchase Agreement)
-
-**Modified ERC-721**
 
 The blockchain architecture for Home Ownership Tokens is a modified ERC-721 (Ethereum Request for Comments 721) smart contract, which is a non-fungible token standard.  &#x20;
 
@@ -34,4 +24,4 @@ Roofstock Home Ownership Token's Modified ERC-721 transferFrom function
 
 The result of this is that the ROOFSTOCK\_TRANSFERER role will be the only role that can transfer a token from one account to another.
 
-![Roofstock's Permissioned ERC-721 Transfer Architecture ](<.gitbook/assets/Screen Shot 2022-05-13 at 3.49.25 PM.png>)
+![Roofstock's Permissioned ERC-721 Transfer Architecture ](<../.gitbook/assets/Screen Shot 2022-05-13 at 3.49.25 PM.png>)
