@@ -16,6 +16,8 @@ Customers have several ways to become HOT owners: &#x20;
 2. Onboard an unencumbered property as a Home Ownership Token: Mint a Home Ownership Token for a property they already own. This process will require an on-ramp of the real-world asset into a tokenized asset and will involved a traditional title and transfer process.&#x20;
 3. As Roofstock to help acquire and tokenize a specific property for them. This is the lengthiest process, as we will need to work with a real-estate agent on making offers and using the traditional real estate closing process to close the property before tokenization.
 
+The HOT standard ensures that any HOT (on-chain asset) is always in sync with both the LLC and the underlying property (off-chain Real World Assets).&#x20;
+
 HOT owners have complete freedom when it comes to what they want to do with the underlying property.  they can live in the property, let a friend or family member use it (personal or family use), use it as a vacation property, a short-term rental, or a long-term rental.
 
 Since the HOT owner makes all decisions pertaining to their property, there is no guarantee that they will receive income or profits from the ownership of the property. Their choices — in terms of how to use the property and who, if anyone, helps her manage it — directly determines any financial return. If the management of the property is delegated to a property manager, the HOT owner decides which property manager to use and their level of involvement in ongoing issues pertaining to tenancy, operating expenses, capital expenditure and other related matters. Thus, any profits generated involve active participation on the part of the HOT owner and do not solely depend on a promoter or any other third party.&#x20;
