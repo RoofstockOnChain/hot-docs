@@ -4,11 +4,11 @@
 
 Given the securities regulations in the United States, most tokenized real estate projects, commercial or residential, when fractionalized, will likely be considered securities. In our view, there is only one class of real estate assets that is generally suitable for tokenization without being deemed a security: single family residential properties.  &#x20;
 
-The main distinction from a securities analysis perspective arises from the fact that single family residences have&#x20;
+The main distinction from a securities analysis perspective arises from the fact that single family residences have:
 
-a. utility value that can be realized by the owner: single-family residential properties can serve as the owner’s full-time or vacation residence, and&#x20;
+a. **utility value** that can be realized by the owner: single-family residential properties can serve as the owner’s full-time or vacation residence, and&#x20;
 
-b. they can be actively managed by the owner or at the direction of the owner. Even when the owner uses third party property managers for performing administrative management functions, they are still involved in the active management of the asset (e.g., setting the rent, reviewing and approving any repairs and capital expenditure). This distinguishes ownership of single-family residential from commercial properties such as retail, office, multifamily, hospitality, warehouse and so on, which are generally much more expensive (and thus offered for sale by a sponsor, and distributed to a group of investors), offer no real possibility for the underlying property to be used for personal use, and/or to be managed actively by a single owner, rather than by the sponsor or its affiliates.&#x20;
+b. they can be **actively managed** by the owner or at the direction of the owner. Even when the owner uses third party property managers for performing administrative management functions, they are still involved in the active management of the asset (e.g., setting the rent, reviewing and approving any repairs and capital expenditure). This distinguishes ownership of single-family residential from commercial properties such as retail, office, multifamily, hospitality, warehouse and so on, which are generally much more expensive (and thus offered for sale by a sponsor, and distributed to a group of investors), offer no real possibility for the underlying property to be used for personal use, and/or to be managed actively by a single owner, rather than by the sponsor or its affiliates.&#x20;
 
 Customers have several ways to become HOT owners: &#x20;
 
