@@ -6,7 +6,7 @@ Roofstock proposes to abstract away the complexity, time and cost of engaging in
 
 Because the LLC is the legal owner of the property, and the Home Ownership Token represents the uncertificated ownership of the LLC, HOT owners are able to purchase and sell HOTs in a one-click online transaction, without removing the underlying property from the associated LLC. &#x20;
 
-![](<../.gitbook/assets/Screen Shot 2022-05-25 at 4.32.19 PM.png>)
+![](<../.gitbook/assets/Screen Shot 2022-05-25 at 4.46.47 PM.png>)
 
 **Utility value and Active Management**
 
