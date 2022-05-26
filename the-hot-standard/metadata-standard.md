@@ -30,6 +30,6 @@ The tokenURI method in the ERC-721 contract should return an HPPT or IPFS URL th
 | lot\_size          | True     | Lot size of the Property in square feet (e.g., 12,000)                                                  |
 | property\_style    | False    | Style of the Property (e.g., Contemporary)                                                              |
 | community          | False    | Community where Property is located (e.g., Education Hill)                                              |
-|                    |          |                                                                                                         |
-|                    |          |                                                                                                         |
-|                    |          |                                                                                                         |
+| realtor\_url       | False    | Realtor.com URL for Property                                                                            |
+| redfin\_url        | False    | Redfin URL for Property                                                                                 |
+| zillow\_url        | False    | Zillow URL for Property                                                                                 |
