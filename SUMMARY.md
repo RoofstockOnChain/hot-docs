@@ -9,3 +9,4 @@
 * [On-Chain and off-chain Liquidity](home-ownership-tokens-hot/on-chain-and-off-chain-liquidity-options.md)
 * [The HOT Standard](the-hot-standard/README.md)
   * [Modified ERC-721](the-hot-standard/modified-erc-721.md)
+  * [Metadata Standard](the-hot-standard/metadata-standard.md)
