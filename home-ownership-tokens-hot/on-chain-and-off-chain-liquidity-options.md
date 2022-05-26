@@ -1,4 +1,4 @@
-# On-Chain and off-chain Liquidity Options
+# On-Chain and off-chain Liquidity
 
 When the HOT owner is ready to divest their Home Ownership Token, they may have both on-chain and off-chain options:&#x20;
 
