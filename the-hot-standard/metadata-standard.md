@@ -20,6 +20,7 @@ The tokenURI method in the ERC-721 contract should return an HPPT or IPFS URL th
 | city                   | True     | Property City                                                                                           |
 | state                  | True     | Property State                                                                                          |
 | zip                    | True     | Property Zip                                                                                            |
+| county                 | True     | County Name                                                                                             |
 | market                 | True     | Core Based Statistical Area (CBSA) of the Property                                                      |
 | images                 | True     | Property images                                                                                         |
 | 3d\_walkthrough        | False    | 3D Walkthrough of the Property                                                                          |
