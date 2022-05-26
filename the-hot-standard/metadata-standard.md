@@ -15,7 +15,11 @@ The tokenURI method in the ERC-721 contract should return an HPPT or IPFS URL th
 | description            | True     | Human readable description of the HOT. Markdown is supported.                                           |
 | name                   | True     | Name of the HOT (name of the collection and token id - e.g., Roofstock Genesis HOT #01)                 |
 | attributes             | True     | Attributes for the HOT that will show up with the listing (array of trait\_type, value)                 |
-| address                | True     | Property Address (e.g., 123 Main Street, Redmond, WA 98052)                                             |
+| address1               | True     | Property Address1 (e.g., 123 Main Street)                                                               |
+| address2               | False    | (Optional) 2nd Line of Property Address                                                                 |
+| city                   | True     | Property City                                                                                           |
+| state                  | True     | Property State                                                                                          |
+| zip                    | True     | Property Zip                                                                                            |
 | market                 | True     | Core Based Statistical Area (CBSA) of the Property                                                      |
 | images                 | True     | Property images                                                                                         |
 | 3d\_walkthrough        | False    | 3D Walkthrough of the Property                                                                          |
