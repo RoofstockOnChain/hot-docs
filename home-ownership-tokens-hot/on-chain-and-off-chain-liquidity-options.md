@@ -4,7 +4,7 @@ When the HOT owner is ready to divest their Home Ownership Token, they may have 
 
 **On-chain Liquidity**
 
-Hot owners will be able to list their tokens for sale on the Roofstock onChain marketplace. Since the HOT is tied to a real-world asset, Roofstock will require recent property inspection and valuation prior to the listing going live. HOT owners will be able to review any offers and accept, reject or counter them. If they accept an offer, they will be able to settle the sale on-chain without any of the traditional real estate transaction processes or expenses.
+Hot owners will be able to list their tokens for sale on the Roofstock onChain marketplace. Since the HOT is tied to a real asset, Roofstock will require recent property inspection and valuation prior to the listing going live. HOT owners will be able to review any offers and accept, reject or counter them. If they accept an offer, they will be able to settle the sale on-chain without any of the traditional real estate transaction processes or expenses.
 
 **Off-chain Liquidity:**&#x20;
 
