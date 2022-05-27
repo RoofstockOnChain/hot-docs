@@ -8,5 +8,6 @@
 * [Access to DeFi Lending](access-to-defi-lending.md)
 * [On-Chain and off-chain Liquidity](home-ownership-tokens-hot/on-chain-and-off-chain-liquidity-options.md)
 * [The HOT Standard](the-hot-standard/README.md)
-  * [Modified ERC-721](the-hot-standard/modified-erc-721.md)
-  * [Metadata Standard](the-hot-standard/metadata-standard.md)
+  * [HOT ERC-721 Standard](the-hot-standard/hot-erc-721-standard.md)
+  * [HOT Metadata Standard](the-hot-standard/hot-metadata-standard.md)
+  * [HOT Data Room Standard](the-hot-standard/hot-data-room-standard.md)
