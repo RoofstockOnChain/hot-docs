@@ -6,7 +6,7 @@ Decentralized Finance (DeFi) provides an opportunity for asset-based loans. The 
 
 A key benefit of tokenizing single family homes is that it enables a new form of over collateralized asset based single-family residential lending. Instead of going through the lengthy traditional underwriting process, HOT owners may have the ability to pledge their tokens as collateral for an interest-only loan from a lending facility through one or more DeFi lending pools. Roofstock is currently in discussions with DeFi lending protocols to enable lending on tokenized real estate. When such a lending solution become available, it may be administered by Roofstock or other unaffiliated third-party acting in the capacity of a loan administrator or lending pool delegate.&#x20;
 
-![](<.gitbook/assets/Screen Shot 2022-05-27 at 8.44.36 AM.png>)
+![](<.gitbook/assets/Screen Shot 2022-05-27 at 1.24.45 PM.png>)
 
 The HOT Loan Aggregator takes HOT as collateral and issues ERC-20 HOT Collateral Tokens (HCT)  that is used as collateral with the DeFi Lender or Lending Pool. This allows for pooling and aggregation of the HOT loans.
 
