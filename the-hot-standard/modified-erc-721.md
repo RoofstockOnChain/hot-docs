@@ -1,4 +1,4 @@
-# Modified ERC-721
+# HOT ERC-721 Standard
 
 
 
