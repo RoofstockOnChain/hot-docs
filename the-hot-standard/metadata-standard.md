@@ -25,14 +25,15 @@ The tokenURI method in the ERC-721 contract should return an HPPT or IPFS URL th
 
 ### Address
 
-| Name    | Required | Description                               |
-| ------- | -------- | ----------------------------------------- |
-| line1   | True     | Property Address1 (e.g., 123 Main Street) |
-| line2   | False    | (Optional) 2nd Line of Property Address   |
-| city    | True     | Property City                             |
-| state   | True     | Property State                            |
-| zip     | True     | Property Zipcode (5 or 9 digit)           |
-| country | True     | Property Country                          |
+| Name       | Required | Description                               |
+| ---------- | -------- | ----------------------------------------- |
+| line\_1    | True     | Property Address1 (e.g., 123 Main Street) |
+| line\_2    | False    | (Optional) 2nd Line of Property Address   |
+| city       | True     | Property City                             |
+| state      | True     | Property State                            |
+| zip        | True     | Property Zipcode (5 or 9 digit)           |
+| cbsa\_code | False    | Property CBSA Code                        |
+| country    | True     | Property Country                          |
 
 ### Attributes
 
