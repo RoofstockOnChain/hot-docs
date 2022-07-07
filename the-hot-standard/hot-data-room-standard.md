@@ -19,6 +19,7 @@ The HOT data room standard is outlined below:
 |                       | Property Inspection           | False    |
 |                       | Property Valuation            | False    |
 |                       | HOA CC\&Rs                    | False    |
+|                       | Home Warranty                 | False    |
 | Property Management   | Property Management Agreement | False    |
 |                       | Rent Ledger                   | False    |
 | Repairs & Maintenance | Repair History                | False    |
