@@ -11,3 +11,4 @@
   * [HOT ERC-721 Standard](the-hot-standard/modified-erc-721.md)
   * [HOT Metadata Standard](the-hot-standard/metadata-standard.md)
   * [HOT Data Room Standard](the-hot-standard/hot-data-room-standard.md)
+* [Smart Contracts](smart-contracts.md)
