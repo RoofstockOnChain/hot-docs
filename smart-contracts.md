@@ -7,5 +7,6 @@
 
 **Rinkeby**
 
-* Roofstock Membership Token - [https://rinkeby.etherscan.io/token/0x06ff05ceac6e82a98733412deaf77a0a165cde44](https://rinkeby.etherscan.io/token/0x06ff05ceac6e82a98733412deaf77a0a165cde44)
+* Roofstock Membership Token - [https://rinkeby.etherscan.io/token/0xc2ea106004f3b0ab6B25D584d2c7e9492f7e05ec](https://rinkeby.etherscan.io/token/0xc2ea106004f3b0ab6B25D584d2c7e9492f7e05ec)
 * Home onChain - [https://rinkeby.etherscan.io/token/0x75ebc731c19bf77f45eed23f9d0bccf73dcb66fe](https://rinkeby.etherscan.io/token/0x75ebc731c19bf77f45eed23f9d0bccf73dcb66fe)
+* Roofstock Membership Token (Legacy) - [https://rinkeby.etherscan.io/token/0x06ff05ceac6e82a98733412deaf77a0a165cde44](https://rinkeby.etherscan.io/token/0x06ff05ceac6e82a98733412deaf77a0a165cde44)
