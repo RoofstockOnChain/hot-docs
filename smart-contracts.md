@@ -10,7 +10,7 @@
 **Goerli**
 
 * Roofstock Membership Token - [https://goerli.etherscan.io/token/0x6A054FD89BBE106202bD589103fa01E38100De36](https://goerli.etherscan.io/token/0x6A054FD89BBE106202bD589103fa01E38100De36)
-* Home onChain -&#x20;
+* Home onChain - [https://goerli.etherscan.io/token/0xe91E72a24BbD8E8Daf7b669109793eF6bdbbf6cA](https://goerli.etherscan.io/token/0xe91E72a24BbD8E8Daf7b669109793eF6bdbbf6cA)
 
 **Rinkeby**
 
